@@ -24,11 +24,11 @@ def decrypto(phrase):
         result += chr(ord(letter)-3) if letter != " " else " "
     return result
 
-def morokon(lines):
+def decrypte(lines):
     for line in lines:
         print(decrypto(line))
 
-def apapaw(lines):
+def crypte(lines):
     for line in lines:
         print("           ", end = "")
         for char in decrypto(line):

@@ -42,9 +42,9 @@ lines_hexa = [
 
 os.system("clear")
 
-pwel.morokon(lines); print("\n")
+pwel.decrypte(lines); print("\n")
 
-#pwel.apapaw(lines)
+#pwel.crypte(lines)
                  
 
 def read_all(texte):
