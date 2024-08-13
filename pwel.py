@@ -1,3 +1,5 @@
+# couleurs du terminal
+
 class kolor:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
