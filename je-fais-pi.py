@@ -11,6 +11,7 @@ from pwel import kolor
 # lines et lines_hexa : c'est le même texte, fastoche !
 # cryptage symétrique ? comment ça marche ?
 # je vais faire le curieux pour comprendre ce qui se passe
+# une troisieme modif
 
 lines = [
     "kwwsv=22zzz1vhqvfulwltxh1frp2ilop2orqjohjv28836;::92ghwdlov&fdvwlqj0vhfwlrq",
