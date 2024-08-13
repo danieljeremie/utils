@@ -21,8 +21,7 @@ def crypto(phrase):
 def decrypto(phrase):
     result = ""
     for letter in phrase:
-        convert = chr(ord(letter)-3) if letter != " " else " "
-        result += convert
+        result += chr(ord(letter)-3) if letter != " " else " "
     return result
 
 def morokon(lines):
