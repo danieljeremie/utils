@@ -14,14 +14,15 @@ class kolor:
 def crypto(phrase):
     result = ""
     for letter in phrase:
-        convert = " " if letter == " " else chr(ord(letter)+3)
+        convert = ({True : " ", False : chr(ord(letter)+3)} [letter ==" "])
         result += convert
     return result
 
 def decrypto(phrase):
     result = ""
     for letter in phrase:
-        result += chr(ord(letter)-3) if letter != " " else " "
+        #result += chr(ord(letter)-3) if letter != " " else " "
+        result += ({True : " ", False : chr(ord(letter)-3)} [letter ==" "])
     return result
 
 def decrypte(lines):
@@ -34,3 +35,14 @@ def crypte(lines):
         for char in decrypto(line):
             print(hex(ord(char)), end = "")
         print('\n')
+
+def read_all(texte):
+    for textline in texte:
+        result = ""
+        parts  = textline.split("0x")
+        parts.remove('')
+
+        for part in parts:
+            result += chr(int(part, 16))
+
+        print(result)

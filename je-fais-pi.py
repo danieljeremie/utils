@@ -45,19 +45,7 @@ os.system("clear")
 pwel.decrypte(lines); print("\n")
 
 #pwel.crypte(lines)
-                 
 
-def read_all(texte):
-    for textline in texte:
-        result = ""
-        parts  = textline.split("0x")
-        parts.remove('')
-
-        for part in parts:
-            result += chr(int(part, 16))
-
-        print(result)
-
-read_all(lines_hexa)
+pwel.read_all(lines_hexa)
 
 print(f"\n{kolor.OKBLUE}Fin du Cryptage{kolor.ENDC}\n\n")
