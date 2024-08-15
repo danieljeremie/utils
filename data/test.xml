@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<videos>
+    <video nom="la baraka" prix="25.00">
+        c'est l'histoire d'un gars qui ne veut pas reprendre le bateau et qui ne souhaite pas faire le con dans le train
+    </video>
+    <video nom="le cocofiolo" prix="18.00">
+        tous les grands pilotes de la nation se regardent et ne font pas le guet
+    </video>
+    <video nom="la fine équipe" prix="47.00">
+        ils sont partis en voilier et ne sont jamais rentrés
+    </video>
+</videos>
