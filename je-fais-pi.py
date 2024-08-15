@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# (c) 2024 Jidé Kouyabourik
+# (c) 2024 Daniel ou Jidé ou Boby ou l'ancien ou arrêtez de me filer des noms débiles...
 
 import os
 
@@ -11,7 +11,7 @@ from pwel import kolor
 # lines et lines_hexa : c'est le même texte, fastoche !
 # cryptage symétrique ? comment ça marche ?
 # je vais faire le curieux pour comprendre ce qui se passe
-# une troisieme modif
+
 
 lines = [
     "kwwsv=22zzz1vhqvfulwltxh1frp2ilop2orqjohjv28836;::92ghwdlov&fdvwlqj0vhfwlrq",
