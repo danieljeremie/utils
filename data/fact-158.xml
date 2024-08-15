@@ -6,32 +6,32 @@
         <numfact>158</numfact>
         <datefact>Mercredi 17 Mai 2023</datefact>
         <client >
-            <nom>Célestine RÉDACTION</nom>
-            <adr>202 Résidence les sources de Dolé</adr>
-            <adr>Impasse Gambetta</adr>
-            <cp>97113</cp>
+            <nom>Jozéfine Békaiw</nom>
+            <adr>202 Résidence les mango gréfé</adr>
+            <adr>Impasse Gwo Tono la</adr>
+            <cp>97113< Gouwb'air/cp>
         </client>
-        <alert>PAYÉ CHQ, Banque postale No 123456, Le 17 Mai 2023</alert>
+        <alert>PAYÉ CHQ, Banque postale No 123456, Ce jour même</alert>
     </head>
 
     <!-- corps -->
     <body>
         <article> <!-- dans l'odre : ref, designation, qte, comment(s), saut -->
-            <ref>HMANPM</ref>
-            <designation>Remorquage et manutention de nuit</designation>
+            <ref>MIZIK</ref>
+            <designation>Cours de violon en pratique</designation>
             <qte>7</qte>
             <puht>128.39</puht>
-            <comment>De Vieux-habitants à Basse-Terre (calebassier)</comment>
+            <comment>Sans reprise de musique</comment>
             <saut/>
         </article>
 
         <article>
-            <designation>Re-livraison à Gourbeyre </designation>
+            <designation>Re-livraison à Gwayav</designation>
             <ref>LVIRBT</ref>
             <puht>148.22</puht>
             <qte>1</qte>
-            <comment>Prise en charge No 000057</comment>
-            <comment>Mini Cooper AN 567 SJ</comment>
+            <comment>d'après devis No 000057</comment>
+            <comment>Mini Cooper Bleu Argenté</comment>
             <!-- <saut/> -->
         </article>
 
@@ -40,25 +40,25 @@
             <ref>LVSC54</ref>
             <qte>3</qte>
             <puht>22.45</puht>
-            <comment>Citroën C3 (AR 923 GW)</comment>
+            <comment>Citroën C3</comment>
             <comment>6 jours - du 2 au 8 Mai 2023 </comment>
             <!-- <saut/> -->
         </article>
 
         <article>
-            <designation>Gardiennage</designation>
+            <designation>Balisage interne</designation>
             <ref>LVSC54</ref>
             <qte>5</qte>
             <puht>18.57</puht>
-            <comment>VW Golf IV (826 AQC 971)</comment>
-            <comment>6 jours - du 2 au 8 Mai 2023</comment>
+            <comment>En transition relative</comment>
+            <comment>6 jours - du 2 au 8 Mai 2028</comment>
         </article>
         <article>
             <designation>Réparation technique</designation>
             <ref>LVSC54</ref>
             <qte>8</qte>
             <puht>32.15</puht>
-            <comment>VW Golf IV (826 AQC 971)</comment>
+            <comment>Avec choix du duplicateur</comment>
             <comment>6 jours - du 2 au 8 Mai 2023</comment>
         </article>
     </body>
