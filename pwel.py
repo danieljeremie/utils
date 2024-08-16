@@ -21,7 +21,6 @@ def crypto(phrase):
 def decrypto(phrase):
     result = ""
     for letter in phrase:
-        #result += chr(ord(letter)-3) if letter != " " else " "
         result += ({True : " ", False : chr(ord(letter)-3)} [letter ==" "])
     return result
 
@@ -46,3 +45,7 @@ def read_all(texte):
             result += chr(int(part, 16))
 
         print(result)
+
+# je ne suis pas un imbecile
+# et tout est a prendre en compte
+# bon on efface tout ça 

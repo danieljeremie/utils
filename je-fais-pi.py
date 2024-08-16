@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
-# (c) 2024 Daniel ou Jidé ou Boby ou l'ancien ou arrêtez de me filer des noms débiles...
+# (c) 2024 Daniel ou Jidé ou Boby ou l'ancien,
+# ou arrêtez de me filer des noms qui me font passer
+# pour un débile...
 
 import os
 
