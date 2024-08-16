@@ -46,4 +46,3 @@ def read_all(texte):
             result += chr(int(part, 16))
 
         print(result)
-        
