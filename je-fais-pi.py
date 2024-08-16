@@ -8,7 +8,7 @@ import os
 
 # je sais ,jaurais pu trouver un autre nom
 import pwel
-from pwel import kolor
+from pwel import kolor, colorPrint, separation
 
 from data import lines, lines_hexa
 
@@ -21,7 +21,8 @@ os.system("clear")
 pwel.decrypte(lines); print("\n")
 
 #pwel.crypte(lines)
+separation(80)
 
 pwel.read_all(lines_hexa)
 
-print(f"\n{kolor.OKBLUE}Fin du Cryptage{kolor.ENDC}\n\n")
+colorPrint("Fin du Cryptage\n")

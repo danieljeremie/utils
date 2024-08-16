@@ -11,6 +11,9 @@ class kolor:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
+def colorPrint(message):
+    print(f"\n{kolor.OKBLUE}{message}{kolor.ENDC}")
+
 def crypto(phrase):
     result = ""
     for letter in phrase:
@@ -26,7 +29,10 @@ def decrypto(phrase):
 
 def decrypte(lines):
     for line in lines:
-        print(decrypto(line))
+        if(len(line) < 30):
+            colorPrint(decrypto(line))
+        else:
+            print(decrypto(line))
 
 def crypte(lines):
     for line in lines:
@@ -46,6 +52,10 @@ def read_all(texte):
 
         print(result)
 
+def separation(qte = 40):
+    print(f"{kolor.OKBLUE}{"*" * qte}{kolor.ENDC}\n")
+    
+
 # je ne suis pas un imbecile
 # et tout est a prendre en compte
-# bon on efface tout ça 
+# bon on efface tout ça

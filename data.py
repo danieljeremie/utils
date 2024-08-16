@@ -1,12 +1,12 @@
 lines = [
     "kwwsv=22zzz1vhqvfulwltxh1frp2ilop2orqjohjv28836;::92ghwdlov&fdvwlqj0vhfwlrq",
-    " ",
+    
     "ORQJOHJV",
     "  O*djhqw gx IEL Ohh Kdunhu/ xqh qrxyhooh uhfuxh wdohqwxhxvh/",
     "  hvw diihfwìh vxu oh fdv luuìvrox g*xq wxhxu hq vìulh lqvdlvlvvdeoh1",
     "  O“hqtxíwh/ dx{ iurqwlëuhv gh o“rffxowh/ vh frpsoh{lilh hqfruh/",
     "  oruvtx“hooh vh gìfrxyuh xq olhq shuvrqqho dyhf oh wxhxu lpslwr|deoh tx“hooh grlw duuíwhu",
-    "  dydqw tx*lo qh suhqqh ohv ylhv g“dxwuhv idploohv lqqrfhqwhv1", " ",
+    "  dydqw tx*lo qh suhqqh ohv ylhv g“dxwuhv idploohv lqqrfhqwhv1",
     "FDVWLQJ",
     "  Pdlnd Prqurh/ Qlfrodv Fdjh/ Dolfld Zlww/ Eodlu Xqghuzrrg/ Olvd Fkdqgohu/ Plfkhooh Fkrl0Ohh",
     "  Hulq Er|hv/ Uu|od Pflqwrvk/ Gdnrwd Gdxoe|/ Ydqhvvd Zdovk"
